@@ -1,7 +1,7 @@
 import random 
 
 print("Roll the Dice") 
-dice = random.randrange(1,6)
+dice = random.randrange(1,7)
 
 if dice == 1: 
   print(dice)
